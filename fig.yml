@@ -1,0 +1,4 @@
+web:
+    build: to.docker
+    ports :
+      - "8080:8080"
